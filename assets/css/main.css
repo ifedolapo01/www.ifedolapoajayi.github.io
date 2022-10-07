@@ -2,12 +2,6 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
 @import url('https://fonts.googleapis.com/css?family=Exo:400,700');
 
-/*
-	Dimension by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 html,
 body,
 div,
@@ -749,8 +743,8 @@ ul.icons li a:active {
     position: fixed;
     top: 0;
     left: 0;
-    background: linear-gradient(-45deg, #ee7752, #EE4540, #F64668, #e73c7e, #23a6d5, #23d5ab, #17181D, #2D142C, #9C3933, #BB8A52, #0C3B2E);
-    animation: gradient 10s ease infinite;
+    background: linear-gradient(-45deg, #ff5c5c, #ff2e2e, #F64668, #e73c7e, #111e6c, #1d2951, #152238, #2D142C, #17181D, #220a0a, #9C3933);
+    animation: gradient 13s ease infinite;
     width: 100%;
     height: 100vh;
     z-index: 1;
